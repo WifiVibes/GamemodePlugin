@@ -1,0 +1,11 @@
+name: GameMode
+version: 1.0
+main: nl.wifivibes.gamemodepl.Main
+description: Een testplugin voor BurnMT
+
+commands:
+  gamemode:
+    description: Verandert je gamemode
+    aliases: [gm]
+  fly:
+    description: Zet je in vliegmodus!
