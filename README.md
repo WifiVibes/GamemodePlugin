@@ -1,2 +1,4 @@
-# GamemodePlugin
- Use this plugin to changes Gamemode in game.
+# GamMode Plugin
+Change your gamemode status, with a single command! By using this plugin.
+
+Author - WifiVibes
