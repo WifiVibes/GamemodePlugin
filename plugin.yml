@@ -1,7 +1,7 @@
 name: GameMode
 version: 1.0
 main: nl.wifivibes.gamemodepl.Main
-description: Een testplugin voor BurnMT
+description: Een GameMode plugin!
 
 commands:
   gamemode:
